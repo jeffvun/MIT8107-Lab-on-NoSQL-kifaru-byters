@@ -905,9 +905,10 @@ docker stop redis-lab
 
 | Student ID | Member Name | Contribution |
 | :--- | :--- | :--- |
-| Kathembo | Nancy | Setup Instructions, Docker Configuration, CRUD operations |
+| 112721 | Kathembo Tsongo | Setup Instructions, Docker Configuration |
+| 226022 | Kavira Neema Nancy | CRUD operations |
 | 136371 | Joseph Vunanga | Applied Scenario Implementation |
-| Leah | - | Advanced Operations |
+| 225637 | Olang Sharon Leah | Advanced Operations |
 
 -----
 
