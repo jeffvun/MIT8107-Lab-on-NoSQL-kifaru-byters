@@ -1,6 +1,3 @@
-Here is the corrected and formatted Lab Manual in Markdown. I have fixed the spacing issues in the commands (e.g., changing `d ock er` to `docker`) and structured it for a professional GitHub README.
-
------
 
 # Redis Key-Value Database Lab Manual
 
